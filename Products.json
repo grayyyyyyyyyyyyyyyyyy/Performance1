@@ -1,0 +1,121 @@
+{"Biking":[{
+
+    "ProductName": "Mountain Bike Frame",
+  
+    "ProductDescription": " Mountain bike frame is the core structure of a mountain bike, designed to withstand the rigors of off-road riding by providing durability, strength, and stability.  ",
+  
+    "ProductImage": "Frame.jpeg",
+  
+    "ProductPrice":"₱ 100,000"
+  
+  },
+  
+  {
+  
+    "ProductName": "Mountain Bike Seatpost",
+  
+    "ProductDescription": " The forged alloy top and bottom clamps ensure a solid connection to the saddle without adding excessive weight. ",
+  
+    "ProductImage": "Seatpost.jpeg",
+  
+    "ProductPrice": "₱  10,000"
+  
+  },
+  
+  {
+  
+    "ProductName": "Mountain Bike Fork",
+  
+    "ProductDescription": " A fork typically consists of two blades which are joined at the top by a fork crown.  ",
+  
+    "ProductImage": "Fork.jpeg",
+  
+    "ProductPrice": "₱ 20,00"
+  
+  },
+  
+  {
+  
+    "ProductName": "Mountain Bike Tires",
+  
+    "ProductDescription": " Tires have tread compounds that specialize in grip and tread patterns with large blocky tread for maximum traction. ",
+  
+    "ProductImage": "Tires.jpeg",
+  
+    "ProductPrice": "₱ 5,000"
+  
+  },
+  
+  {
+  
+    "ProductName": "Mountain Bike Handlebar",
+  
+    "ProductDescription": " Handlebar provides more steering control and is favoured for gravel riding. ",
+  
+    "ProductImage": "Handlebar.jpeg",
+  
+    "ProductPrice": "₱ 3,000"
+  
+  },
+  
+  { 
+  
+    "ProductName": "Mountain Bike Saddle",
+  
+    "ProductDescription": " Provides more stability on uneven ground and prevents muscles from tensing up. ",
+  
+    "ProductImage": "Saddle.jpeg",
+  
+    "ProductPrice": "₱ 1,000"
+  
+  },
+  
+  {
+  
+    "ProductName": "Mountain Bike Crank arms",
+  
+    "ProductDescription": " Act as a rotating crank, part of the crankset, allowing the rider to apply force to the pedal transferred via the crank arm to the forward gears to drive the bicycle chain. ",
+  
+    "ProductImage": "Crankarms.jpeg",
+  
+    "ProductPrice": "₱ 4,000"
+  
+  },
+  
+  {
+  
+    "ProductName": "Moutain Bike Pedals ",
+  
+    "ProductDescription": " A large standing surface studded with metal pins, resulting in a good grip with the right shoes, even on uneven terrain. ",
+  
+    "ProductImage": "Pedals.jpeg",
+  
+    "ProductPrice": "₱ 1,500"
+  
+  },
+  
+  {
+  
+    "ProductName": "Mountain Bike Chain",
+  
+    "ProductDescription": " A large standing surface studded with metal pins, resulting in a good grip with the right shoes, even on uneven terrain. ",
+  
+    "ProductImage": "Chain.jpeg",
+  
+    "ProductPrice": "₱ 500"
+  
+  },
+  
+  {
+  
+    "ProductName": "Moutain Brakes",
+  
+    "ProductDescription": " A device for slowing or stopping a vehicle or other moving mechanism by the absorption or transfer of the energy of momentum, usually by means of friction. ",
+  
+    "ProductImage": "Brakes.jpeg",
+  
+    "ProductPrice":"₱ 1,000"
+  
+  }
+  
+    ]}
